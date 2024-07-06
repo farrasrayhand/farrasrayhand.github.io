@@ -23,10 +23,28 @@
       "name": "SMK Negeri 7 Samarinda",
       "position": "Network Administrator",
       "url": "https://smkn7-smr.sch.id",
-      "startDate": "Oct 2019",
+      "startDate": "Oct 2020",
       "endDate": "Present",
       "summary": "Managing and Monitoring Network",
       "highlights": ["Network"]
+    },
+    {
+      "name": "Outsourcing PT. Indonesia Comnets Plus",
+      "position": "Service Point",
+      "url": "https://plniconplus.co.id/",
+      "startDate": "Feb 2020",
+      "endDate": "Apr 2020",
+      "summary": "Fiber Optic Field Technician",
+      "highlights": ["Fiber Optic"]
+    },
+    {
+      "name": "Outsourcing Indihome",
+      "position": "Provisioning Technician",
+      "url": "https://indihome.co.id/",
+      "startDate": "May 2020",
+      "endDate": "Sep 2020",
+      "summary": "FTTH (Fiber to the Home) Installation",
+      "highlights": ["Fiber Optic"]
     }
   ],
   "education": [
