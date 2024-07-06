@@ -1,7 +1,3 @@
-Talking about Personal Stuffs :
+Hi everyone! My name is Muhammad Farras Rayhand, and I'd like to share a few personal details and my skills. First of all, I really love bread—it's my favorite snack. Weekends for me are all about relaxation; during holidays, I love lounging in bed, eating, sleeping, and scrolling through my phone.
 
-- 🍞 I like Bread 🤤
-
-- 🛏️ I spend the weekend in the bed.
-
-- 🍔Eat ~ 😴Sleep ~ 📱Scroll ~ 🔁Repeat
+I am also a Network Engineer who frequently uses Linux and is always interested in new technological developments. I am proficient in operating Linux-based Desktop and Server Operating Systems. I can also build Private Cloud Servers using OpenStack (DevStack) and configure servers. Additionally, I have considerable experience in setting up and managing routers, switches, and building PPTP VPN networks. The combination of my relaxing habits and my curiosity about technology defines who I am and drives my continuous learning and growth in the tech field.
