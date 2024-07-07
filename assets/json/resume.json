@@ -70,6 +70,13 @@
   ],
   "certificates": [
     {
+      "name": "Linux+",
+      "date": "2022-08-20",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/22ddbeef-519e-4e53-8e16-42461bac1a2c/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "MTCNA",
       "date": "2024-05-29",
       "issuer": "MikroTik",
@@ -93,15 +100,8 @@
     {
       "name": "AWS CLF-C01",
       "date": "2022-05-21",
-      "issuer": "Amazon Web Services",
+      "issuer": "AWS",
       "url": "https://www.credly.com/badges/9f79b9f6-2942-4876-96d2-d790066275f1/",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "CompTIA Linux+ ce",
-      "date": "2022-08-20",
-      "issuer": "CompTIA",
-      "url": "https://www.credly.com/badges/22ddbeef-519e-4e53-8e16-42461bac1a2c/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
