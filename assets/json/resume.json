@@ -91,13 +91,6 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "MTCSE",
-      "date": "2022-10-27",
-      "issuer": "MikroTik",
-      "url": "https://mikrotik.com/training/certificates/b244915c62e7f608d9b3/",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
       "name": "AWS CLF-C01",
       "date": "2022-05-21",
       "issuer": "AWS",
