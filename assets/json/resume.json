@@ -70,31 +70,45 @@
   ],
   "certificates": [
     {
-      "name": "Linux+",
-      "date": "2022-08-20",
-      "issuer": "CompTIA",
-      "url": "https://www.credly.com/badges/22ddbeef-519e-4e53-8e16-42461bac1a2c/",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "MTCNA",
-      "date": "2024-05-29",
-      "issuer": "MikroTik",
-      "url": "https://mikrotik.com/training/certificates/c261155c7062c3bdcb4f/",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "MTCRE",
-      "date": "2022-10-27",
-      "issuer": "MikroTik",
-      "url": "https://mikrotik.com/training/certificates/c244898c6d788204c53a/",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "AWS CLF-C01",
-      "date": "2022-05-21",
-      "issuer": "AWS",
-      "url": "https://www.credly.com/badges/9f79b9f6-2942-4876-96d2-d790066275f1/",
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
