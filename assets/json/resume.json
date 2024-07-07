@@ -70,37 +70,37 @@
   ],
   "certificates": [
     {
-      "name": "MikroTik Certified Network Associate (MTCNA)",
+      "name": "MTCNA",
       "date": "2024-05-29",
       "issuer": "MikroTik",
       "url": "https://mikrotik.com/training/certificates/c261155c7062c3bdcb4f",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "MikroTik Certified Routing Engineer (MTCRE)",
+      "name": "MTCRE",
       "date": "2022-10-27",
       "issuer": "MikroTik",
       "url": "https://mikrotik.com/training/certificates/c244898c6d788204c53a",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Mikrotik Certified Security Engineer (MTCSE)",
+      "name": "MTCSE",
       "date": "2022-10-27",
       "issuer": "MikroTik",
       "url": "https://mikrotik.com/training/certificates/b244915c62e7f608d9b3",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "CompTIA Linux+ ce Certification",
+      "name": "CompTIA Linux+ ce",
       "date": "2022-08-20",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/22ddbeef-519e-4e53-8e16-42461bac1a2c/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "AWS Certified Cloud Practitioner",
+      "name": "AWS CLF-C01",
       "date": "2022-05-21",
-      "issuer": "Amazon Web Services Training and Certification",
+      "issuer": "Amazon Web Services",
       "url": "https://www.credly.com/badges/9f79b9f6-2942-4876-96d2-d790066275f1",
       "icon": "fa-solid fa-clipboard-check"
     }
