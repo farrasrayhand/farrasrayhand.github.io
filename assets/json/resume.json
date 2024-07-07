@@ -32,8 +32,8 @@
       "name": "Outsourcing PT. Indonesia Comnets Plus",
       "position": "Service Point",
       "url": "https://plniconplus.co.id/",
-      "startDate": "Feb 2020",
-      "endDate": "Apr 2020",
+      "startDate": "May 2020",
+      "endDate": "Sep 2020",
       "summary": "Fiber Optic Field Technician",
       "highlights": ["Fiber Optic"]
     },
@@ -41,59 +41,94 @@
       "name": "Outsourcing Indihome",
       "position": "Provisioning Technician",
       "url": "https://indihome.co.id/",
-      "startDate": "May 2020",
-      "endDate": "Sep 2020",
+      "startDate": "Feb 2020",
+      "endDate": "Apr 2020",
       "summary": "FTTH (Fiber to the Home) Installation",
       "highlights": ["Fiber Optic"]
     }
   ],
   "education": [
     {
-      "institution": "",
-      "location": "",
-      "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "institution": "SMK Negeri 7 Samarinda",
+      "location": "Samarinda",
+      "url": "https://smkn7-smr.sch.id",
+      "area": "Teknik Komputer Jaringan (TKJ)",
+      "studyType": "High School",
+      "startDate": "2015",
+      "endDate": "2018",
+      //"score": "",
+      //"courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
+      "title": "2nd Winner of Lomba Kompetensi Siswa (LKS) IT Networking Support district level Samarinda",
+      "date": "2018",
+      "awarder": "Dinas Pendidikan Kota Samarinda",
+      "url": "https://drive.google.com/file/d/1b7lc3W7g3EH_dF-Ws4SafBM094jk-tYJ/view",
     }
   ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
+      "name": "MikroTik Certified Network Associate (MTCNA)",
+      "date": "2024-05-29",
+      "issuer": "MikroTik",
+      "url": "https://mikrotik.com/training/certificates/c261155c7062c3bdcb4f",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
+      "name": "MikroTik Certified Routing Engineer (MTCRE)",
+      "date": "2022-10-27",
+      "issuer": "MikroTik",
+      "url": "https://mikrotik.com/training/certificates/c244898c6d788204c53a",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Mikrotik Certified Security Engineer (MTCSE)",
+      "date": "2022-10-27",
+      "issuer": "MikroTik",
+      "url": "https://mikrotik.com/training/certificates/b244915c62e7f608d9b3",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "CompTIA Linux+ ce Certification",
+      "date": "2022-08-20",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/22ddbeef-519e-4e53-8e16-42461bac1a2c/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2022-05-21",
+      "issuer": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/badges/9f79b9f6-2942-4876-96d2-d790066275f1",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing"
-      ]
+      "name": "Linux",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "AWS",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "MikroTik",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Cisco",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "OpenStack",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Networking",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "languages": [
